@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rupakrajput19
+- 👋 Hi, I’m @Rupakrajput19(Ritu Kumar)
 - 👀 I’m interested in web developer.
 - 🌱 I’m currently learning programming languages(HTML,CSS,JAVASCRIPT).
 - 🌱 I’m also learning CSS Frameworks like(Bootstrap,Tailwind CSS).
