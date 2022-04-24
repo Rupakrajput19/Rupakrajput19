@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rupakrajput19(Ritu Kumar)
-- 👀 I’m interested in web developer.
-- 🌱 I’m currently learning programming languages(HTML,CSS,JAVASCRIPT).
-- 🌱 I’m also learning CSS Frameworks like(Bootstrap,Tailwind CSS).
+- 👀 I’m interested in web developement.
+- 🌱 I’m currently learning programming language(JAVASCRIPT).
+- 🌱 I’m also learning HTML & CSS Frameworks like(Bootstrap,Tailwind CSS).
 - 💞️ I’m looking to collaborate on job for growth in my skills.
 - 📫 How to reach me via my contact details email.
 
