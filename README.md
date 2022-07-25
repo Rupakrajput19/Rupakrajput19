@@ -19,8 +19,8 @@ HTML, CSS, Bootstrap, Javascript, C#(.Net)...
 - 📫 How to reach me via my contact details email.
 
 
-# Resume
-### https://rupakrajput19.github.io/Resume/
+## Resume
+https://rupakrajput19.github.io/Resume/
 
 
 ## 🔗 Links
