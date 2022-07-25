@@ -19,6 +19,10 @@ HTML, CSS, Bootstrap, Javascript, C#(.Net)...
 - 📫 How to reach me via my contact details email.
 
 
+## Resume
+# https://rupakrajput19.github.io/Resume/
+
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Rupakrajput19/Rupakrajput19/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritu-kumar-a0a5aa1b2)
