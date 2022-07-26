@@ -10,7 +10,7 @@ HTML, CSS, Bootstrap, Javascript, C#(.Net)...
 
 - 👀 I’m interested in web developement.
 
-- 🌱 I’m currently learning programming language(JAVASCRIPT).
+- 🌱 I’m currently learning JAVASCRIPT programming language.
 
 - 🌱 I’m also learning HTML & CSS Frameworks like(Bootstrap).
 
