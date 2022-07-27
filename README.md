@@ -22,7 +22,7 @@ HTML, CSS, Bootstrap, Javascript, C#(.Net)...
 ## Resume
 GitHub Link:- [https://rupakrajput19.github.io/Resume/]
 
-Google-Drive Link:- [https://drive.google.com/file/d/1KviJFfA-Wv-yHfZk86g3Wn27cDNZ1uxB/view]
+Google-Drive Link:- [https://drive.google.com/file/d/1rlSxG67nEwzXr-w3FPWY8kbq1evbhmkX/view]
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Rupakrajput19/Rupakrajput19/)
