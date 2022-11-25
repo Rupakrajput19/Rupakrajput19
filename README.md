@@ -9,9 +9,9 @@ HTML, CSS, Bootstrap, Javascript, C#(.Net)...
 ## Github Profile Sections
 - 👋 Hi, I’m @Rupakrajput19(Ritu Kumar)
 
-- 👀 I’m interested in front web developement.
+- 👀 Interested in front web developement.
 
-- 🌱 I’m currently learning Javascript libraries and frameworks.
+- 🌱 Currently learning Javascript libraries and frameworks.
 
 - 🌱 Technologies in Buckets - (HTML, CSS, JavaScript, Bootstrap, Material UI, ReactJS, NodeJS, MongooseJs, AngularJS, ExpressJS, Typescript, ExtJS, PHP(Laravel), C#(.Net), MongoDB, MySQL, Git & Github)
 
