@@ -1,6 +1,7 @@
 # Hi, I'm Ritu Kumar! 👋
 
-I'm a Front-End Web developer...
+Enthusiastic and passionate for Frontend Web development.
+
 
 ## 🛠 Skills
 HTML, CSS, Bootstrap, Javascript, C#(.Net)...
@@ -8,11 +9,11 @@ HTML, CSS, Bootstrap, Javascript, C#(.Net)...
 ## Github Profile Sections
 - 👋 Hi, I’m @Rupakrajput19(Ritu Kumar)
 
-- 👀 I’m interested in web developement.
+- 👀 I’m interested in front web developement.
 
-- 🌱 I’m currently learning JAVASCRIPT programming language.
+- 🌱 I’m currently learning Javascript libraries and frameworks.
 
-- 🌱 I’m also learning HTML & CSS Frameworks like(Bootstrap).
+- 🌱 Technologies in Buckets - (HTML, CSS, JavaScript, Bootstrap, Material UI, ReactJS, NodeJS, MongooseJs, AngularJS, ExpressJS, Typescript, ExtJS, PHP(Laravel), C#(.Net), MongoDB, MySQL, Git & Github)
 
 - 💞️ I’m looking to collaborate on job for growth in my skills.
 
