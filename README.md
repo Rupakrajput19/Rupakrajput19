@@ -4,7 +4,8 @@ Enthusiastic and passionate for Frontend Web development.
 
 
 ## 🛠 Skills
-HTML, CSS, Bootstrap, Javascript, C#(.Net)...
+
+HTML, CSS, JavaScript, Bootstrap, Material UI, ReactJS, NodeJS, MongooseJs, AngularJS, ExpressJS, Typescript, ExtJS, PHP(Laravel), C#(.Net), MongoDB, MySQL, Git & Github...
 
 ## Github Profile Sections
 - 👋 Hi, I’m @Rupakrajput19(Ritu Kumar)
