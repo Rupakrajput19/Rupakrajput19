@@ -14,7 +14,7 @@ HTML, CSS, JavaScript, Bootstrap, Material UI, ReactJS, NodeJS, MongooseJs, Angu
 
 - 🌱 Currently learning Javascript libraries and frameworks.
 
-- 🌱 Technologies in Buckets - (HTML, CSS, JavaScript, Bootstrap, Material UI, ReactJS, NodeJS, MongooseJs, AngularJS, ExpressJS, Typescript, ExtJS, PHP(Laravel), C#(.Net), MongoDB, MySQL, Git & Github)
+- 🌱 Technologies in Buckets - (HTML, CSS, JavaScript, Bootstrap, Material UI, ReactJS, NodeJS, MongooseJs, AngularJS, ExpressJS, Typescript, ExtJS, PHP(Laravel), C#(.Net), MongoDB, MySQL, TortoiseGit, Git & Github)
 
 - 💞️ I’m looking to collaborate on job for growth in my skills.
 
